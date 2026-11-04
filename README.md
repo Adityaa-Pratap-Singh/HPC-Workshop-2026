@@ -1,1 +1,1 @@
-**HPC-Workshop-2026**
+HPC-Workshop-2026
